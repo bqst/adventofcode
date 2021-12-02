@@ -1,6 +1,6 @@
-# Advent of Code Solutions
+# Advent of Code 2021 Solutions
 
-My solutions to the programming puzzles on [Advent of Code](http://adventofcode.com/).
+My solutions to the programming puzzles on [Advent of Code 2021](http://adventofcode.com/2021).
 
 ## What is Advent of Code?
 
